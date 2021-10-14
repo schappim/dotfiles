@@ -1,0 +1,8 @@
+alias gp="git pull"
+# alias gs="git status"
+alias gu="git add -u"
+alias ga="git add -A"
+alias gd="git diff"
+alias gc="git commit -m"
+alias gcl="git commit -m 'changes'; git push origin master;"
+alias push="git push origin master"
