@@ -1,5 +1,5 @@
 alias gp="git pull"
-# alias gs="git status"
+alias gs="git status"
 alias gu="git add -u"
 alias ga="git add -A"
 alias gd="git diff"
